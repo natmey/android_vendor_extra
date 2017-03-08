@@ -7,7 +7,7 @@ DEVICE_PACKAGE_OVERLAYS += vendor/extra/overlay/
 #
 #
 
-LOCAL_PATH:= $(call my-dir)
+LOCAL_PATH:= vendor/extra
 
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/CelloSuite.ogg:system/media/audio/alarms/CelloSuite.ogg \
