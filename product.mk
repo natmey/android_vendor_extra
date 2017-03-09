@@ -18,6 +18,3 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
 	FDroid \
 	GmsCore \
-	FakeStore \
-  GfsProxy \
-  LocalGSMBackend \
