@@ -19,4 +19,4 @@ PRODUCT_PACKAGES += \
 	FDroid \
 	GmsCore \
   FakeStore \
-  GfsProxy \
+  GfsProxy
